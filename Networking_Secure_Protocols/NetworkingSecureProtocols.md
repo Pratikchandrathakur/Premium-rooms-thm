@@ -269,4 +269,4 @@ Click on **Browse**, then select the `ssl-key.log` file, and finally click OK.
 ## Answer the questions below
 
 **One of the packets contains login credentials. What password did the user submit?**  
-`___{______}`
+`THM{B8WM6P}`
